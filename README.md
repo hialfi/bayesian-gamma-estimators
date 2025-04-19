@@ -27,10 +27,6 @@ The script:
 - Custom plotting with R base graphics.
 - Clear explanation of estimator interpretation.
 
-## 📊 Example Plot
-
-![Posterior Plot Example](posterior_plot.png) <!-- optional, you can upload a screenshot or remove this line -->
-
 ## 🛠️ How to Run
 
 Make sure you have R installed. Then run the script using:
